@@ -1,0 +1,23 @@
+.orange-container {
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.white-container {
+  background-color: #ffff;
+  margin: 60px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  color: #ffc2a0;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
